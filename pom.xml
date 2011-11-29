@@ -9,9 +9,9 @@
 	<name>Google closure compiler Maven plugin</name>
 
 	<scm>
-		<connection>scm:git:git://github.com/papegaaij/closure-compiler-maven-plugin.git</connection>
-		<developerConnection>scm:git:git://github.com/papegaaij/closure-compiler-maven-plugin.git</developerConnection>
-		<url>http://github.com/papegaaij/closure-compiler-maven-plugin</url>
+		<connection>scm:git:git://github.com/tylersouthwick/closure-compiler-maven-plugin.git</connection>
+		<developerConnection>scm:git:git://github.com/tylersouthwick/closure-compiler-maven-plugin.git</developerConnection>
+		<url>http://github.com/tylersouthwick/closure-compiler-maven-plugin</url>
 	</scm>
 
 	<properties>
