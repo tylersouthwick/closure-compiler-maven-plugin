@@ -1,5 +1,7 @@
 .idea
 .classpath
 .project
+*.swp
+*.swo
 closure-compiler-maven-plugin.iml
 target
